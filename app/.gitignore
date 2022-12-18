@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # NPM Package files
-package-lock.json
+# package-lock.json
